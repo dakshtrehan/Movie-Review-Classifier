@@ -2,7 +2,7 @@
 
 This aim is to classify movie reviews as positive/negative.
 
-Problem type :- Classification
-Algorithm used :- Naive Bayes
-Dataset :- Custom example
-Libraries used :- NLTK, Sci-kit Learn
+1. Problem type :- Classification
+2. Algorithm used :- Naive Bayes
+3. Dataset :- Custom example
+4. Libraries used :- NLTK, Sci-kit Learn
