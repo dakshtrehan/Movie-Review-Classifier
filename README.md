@@ -1,6 +1,6 @@
 # Movie-Review-Classifier
 
-This aim is to classify movie reviews as positive/negative.
+The aim is to classify movie reviews as positive/negative.
 
 1. Problem type :- Classification
 2. Algorithm used :- Naive Bayes
