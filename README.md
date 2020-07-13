@@ -1,5 +1,7 @@
 # Movie-Review-Classifier
 
+Join me at www.dakshtrehan.com
+
 The aim is to classify movie reviews as positive/negative.
 
 1. Problem type :- Classification
