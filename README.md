@@ -1,6 +1,6 @@
 # Movie-Review-Classifier
 
-Join me at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan
+Join me at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan || www.medium.com/@dakshtrehan
 
 The aim is to classify movie reviews as positive/negative.
 
